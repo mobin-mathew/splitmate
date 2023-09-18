@@ -1,2 +1,4 @@
 This is my 1st text file.
 Author: Mobin Mathew
+Title: learning Git and GitHub
+date: 18/9/2023
